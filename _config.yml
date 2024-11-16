@@ -1,0 +1,11 @@
+# _config.yml
+
+# Site settings
+title: FluffyCandies Yoga Guide
+description: FluffyCandies Yoga Guide apk release
+theme: jekyll-theme-tactile
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
