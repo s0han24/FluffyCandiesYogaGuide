@@ -1,5 +1,3 @@
-# FluffyCandies Yoga Guide
-
 Welcome to the download page for our Android app!
 
 ## Download the APK
@@ -21,4 +19,4 @@ If you face any issues, feel free to open an issue on our GitHub repository. We'
     
     [**Report an Issue**](https://github.com/s0han24/FluffyCandiesYogaGuide/issues)
     
-    [**View Source Code**](hhttps://github.com/s0han24/FluffyCandiesYogaGuide/)
+    [**View Source Code**](https://github.com/s0han24/FluffyCandiesYogaGuide/)
