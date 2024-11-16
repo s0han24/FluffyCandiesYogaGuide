@@ -1,5 +1,3 @@
-@import "{{ site.theme }}";
-
 Welcome to the download page for our Android app!
 
 ## Download the APK
