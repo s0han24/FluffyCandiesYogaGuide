@@ -19,4 +19,4 @@ If you face any issues, feel free to open an issue on our GitHub repository. We'
 
 [**Report an Issue**](https://github.com/s0han24/FluffyCandiesYogaGuide/issues)
     
-[**View Source Code**](https://github.com/s0han24/FluffyCandiesYogaGuide/)
+[**View Source Code**](https://github.com/ThePurpleJedi/qidk-posture-guidance)
