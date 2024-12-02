@@ -17,6 +17,6 @@ Click the button below to download the APK file.
 
 If you face any issues, feel free to open an issue on our GitHub repository. We'll be happy to help you out!
 
-[**Report an Issue**](https://github.com/s0han24/FluffyCandiesYogaGuide/issues)
+[**Report an Issue**](https://github.com/ThePurpleJedi/qidk-posture-guidance/issues)
     
 [**View Source Code**](https://github.com/ThePurpleJedi/qidk-posture-guidance)
