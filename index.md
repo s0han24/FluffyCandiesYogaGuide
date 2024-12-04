@@ -3,7 +3,7 @@ Welcome to the download page for our Android app!
 ## Download the APK
 Click the button below to download the APK file.
 
-[**Download APK**](yoga-guide.apk)
+[**Download APK**](yoga-guide-v2.apk)
 
 ---
 
